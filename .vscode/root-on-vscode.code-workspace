@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../"
+		}
+  ],
+  "settings": {
+    "files.associations": {
+      "hsimple.C": "cpp"
+    },
+    "C_Cpp.default.includePath": [
+      "${default}",
+      "/home/apdrf/programs/root-6.22/install/include"
+    ]
+  },
+  "extensions": {
+    "recommendations": [
+      "albertopdrf.root-file-viewer",
+      "ms-vscode.cpptools"
+    ]
+  }
+}
